@@ -84,8 +84,12 @@ This repository contains:
 
 My goal is to continuously improve my technical skills and maintain a well-documented collection of practical IT labs that reflect industry-standard administration and networking practices.
 
-## 📧 Contact
+📧 Contact
 
 Feel free to explore my repositories, review my work, and connect with me for collaboration, learning, or professional opportunities.
 
-Thank you for visiting my GitHub profile and following my IT learning journey.
+📧 Email: muhammadyasirit3@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/yourusername
+🎵 TikTok: https://www.tiktok.com/@techdailyhub.com
+
+Thank you for visiting my GitHub profile and supporting my IT learning journey. Your feedback, suggestions, and contributions are always welcome!
